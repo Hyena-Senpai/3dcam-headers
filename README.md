@@ -41,7 +41,10 @@ Real-time 3D / 8bpp background / 4bpp background
   
 ## Planned
 
-  * Fix and improve all the things !
+  * make a proper git ignore lol
+  * fix the  jump button crash
+  
+  will add more to this once i actually start working on it.
 
 # Compiling
 
