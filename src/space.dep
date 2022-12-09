@@ -1,0 +1,6 @@
+src/space.o: src/space.c \
+ /home/hyena/nolibgs_hello_worlds/3d-eng/include/space.h \
+ /home/hyena/nolibgs_hello_worlds/3d-eng/../psyq/include/sys/types.h \
+ /home/hyena/nolibgs_hello_worlds/3d-eng/../psyq/include/libgte.h \
+ /home/hyena/nolibgs_hello_worlds/3d-eng/../psyq/include/libgpu.h \
+ /home/hyena/nolibgs_hello_worlds/3d-eng/include/defines.h

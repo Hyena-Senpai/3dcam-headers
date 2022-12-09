@@ -1,0 +1,7 @@
+src/math.o: src/math.c \
+ /home/hyena/nolibgs_hello_worlds/3d-eng/include/math.h \
+ /home/hyena/nolibgs_hello_worlds/3d-eng/../psyq/include/stddef.h \
+ /home/hyena/nolibgs_hello_worlds/3d-eng/include/stdint.h \
+ /home/hyena/nolibgs_hello_worlds/3d-eng/../psyq/include/libgte.h \
+ /home/hyena/nolibgs_hello_worlds/3d-eng/include/macros.h \
+ /home/hyena/nolibgs_hello_worlds/3d-eng/include/atan.h

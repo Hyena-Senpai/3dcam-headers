@@ -1,0 +1,7 @@
+levels/level1.o: levels/level1.c levels/level1.h \
+ /home/hyena/nolibgs_hello_worlds/3d-eng/include/custom_types.h \
+ /home/hyena/nolibgs_hello_worlds/3d-eng/../psyq/include/sys/types.h \
+ /home/hyena/nolibgs_hello_worlds/3d-eng/../psyq/include/libgte.h \
+ /home/hyena/nolibgs_hello_worlds/3d-eng/include/stdint.h \
+ /home/hyena/nolibgs_hello_worlds/3d-eng/../psyq/include/libgpu.h \
+ /home/hyena/nolibgs_hello_worlds/3d-eng/include/defines.h

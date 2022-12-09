@@ -1,0 +1,2 @@
+src/pad.o: src/pad.c \
+ /home/hyena/nolibgs_hello_worlds/3d-eng/include/pad.h
