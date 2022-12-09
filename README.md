@@ -1,3 +1,5 @@
+## not currently working on until after i get the plugin working, but this is going to be a fork of the psx 3dcam engine with some modifications for my needs, but anyone is free to use it. for now though, just use the original
+
 # 3dcam PSX engine
 
 This a WIP PSX 3d engine. Use this with the [companion blender exporter](https://github.com/ABelliqueux/blender_io_export_psx_mesh) to create levels for the engine.
